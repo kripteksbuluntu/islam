@@ -18,3 +18,19 @@ Türkçe meali: Şahitlik ederim ki Allah'tan başka ilâh yoktur. Yine şahitli
 Arapça Okunuşu: Lâ ilâhe illallâh Muhammedün resûlullâh.
 
 Türkçe meali: Allah'tan başka ilâh yoktur, Hz. Muhammed(s.a.v) O'nun elçisidir.
+
+## İslâm Strüktürü
+İslâm, fıkıh kitaplarında öğretildiği üzere "32 farz" temeliyle oluşur.
+
+### 32 Farz
+32 farzın şartları 6 temelden oluşur. Görüldüğü üzere önce imân, önce inanç, sonra temizlik ve en son ibâdet gelir.
+
+İslâm, bizlere imân etmeyi, imân ederek inancı tasdiklemeyi, inancın gereği olarak temiz olmayı, temiz olarak da ibâdet etmeyi öğüt eder. 
+
+32 farz:
+1. İmân'ın Şartları (6)
+2. İslâm'ın Şartları (5)
+3. Abdest'in Şartları (4)
+4. Gusl'ün Şartları (3)
+5. Teyemüm'ün Şartları (2)
+6. Namaz'ın Şartları (12)
