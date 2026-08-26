@@ -5,7 +5,7 @@ Müslüman olmanın ilk şartı kelime-i şehâdet ve kelime-i tevhid getirerek 
 
 ### Kelime-i Şehâdet
 
-Arapça yazılışı:اَشْهَدُ اَنْ لاَ اِلهَ اِلاَّ اللهُ وَاَشْهَدُ اَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ 
+اَشْهَدُ اَنْ لاَ اِلهَ اِلاَّ اللهُ وَاَشْهَدُ اَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ 
 
 Arapça okunuşu: Eşhedü en lâ ilâhe illallah ve eşhedü enne Muhammeden abdühû ve resûlüh.
 
