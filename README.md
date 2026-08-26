@@ -12,3 +12,9 @@ Arapça okunuşu: Eşhedü en lâ ilâhe illallah ve eşhedü enne Muhammeden ab
 Türkçe meali: Şahitlik ederim ki Allah'tan başka ilâh yoktur. Yine şahitlik ederim ki, Hz. Muhammed (s.a.v) Allah'ın kulu ve elçisidir.
 
 ### Kelime-i Tevhid
+
+لَا إِلٰهَ إِلَّا اللهُ مُحَمَّدٌ رَسُولُ اللهِ 
+
+Arapça Okunuşu: Lâ ilâhe illallâh Muhammedün resûlullâh.
+
+Türkçe meali: Allah'tan başka ilâh yoktur, Hz. Muhammed(s.a.v) O'nun elçisidir.
