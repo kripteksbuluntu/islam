@@ -1,5 +1,5 @@
 # İslâm Yol Haritası
-Bu yol haritası, kripteksbuluntu tarafından okumalar,araştırmalar ve yılların ilmî birikimi gelecek nesillere aktarma bilinciyle ile oluşturulmuştur.
+Bu yol haritası, kripteksbuluntu tarafından okumalar, araştırmalar ve yılların ilmî birikimi gelecek nesillere aktarma bilinciyle ile oluşturulmuştur.
 
 ## İslâm'a Giriş
 
