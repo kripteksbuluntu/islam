@@ -1,5 +1,5 @@
 # İslâm Yol Haritası
-Bu yol haritası, kripteksbuluntu tarafından okumalar, araştırmalar ve yılların ilmî birikimi gelecek nesillere aktarma bilinciyle ile oluşturulmuştur.
+Bu yol haritası, kripteksbuluntu tarafından okumalar, araştırmalar ve yılların ilmî birikimini gelecek nesillere aktarma bilinciyle ile oluşturulmuştur.
 
 ## İslâm'a Giriş
 
@@ -36,3 +36,12 @@ Türkçe meali: Allah'tan başka ilâh yoktur, Hz. Muhammed(s.a.v) O'nun elçisi
 4. Gusl'ün Şartları (3)
 5. Teyemüm'ün Şartları (2)
 6. Namaz'ın Şartları (12)
+
+#### İmân'ın Şartları 
+İmân'ın şartları 6 tanedir. Bunlar şunlardır:
+1. Allah'ın varlığına ve bir -tek ilâh- oluşuna inanmak.
+2. Meleklere inanmak.
+3. Allah'ın indirmiş olduğu kutsal kitaplara inanmak.
+4. Peygamberlere inanmak.
+5. Âhiret gününe inanmak.
+6. Kadere, hayr(iyilik) ve şerlerin(kötülüklerin) Allah'tan geldiğine inanmak.
