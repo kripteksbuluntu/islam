@@ -45,3 +45,11 @@ Türkçe meali: Allah'tan başka ilâh yoktur, Hz. Muhammed(s.a.v) O'nun elçisi
 4. Peygamberlere inanmak.
 5. Âhiret gününe inanmak.
 6. Kadere, hayr(iyilik) ve şerlerin(kötülüklerin) Allah'tan geldiğine inanmak.
+
+#### İslâm'ın Şartları 
+İslâm'ın şartları 6 tanedir. Bunlar şunlardır:
+1. Kelime-i Şehâdet getirmek.
+2. Namaz kılmak.
+3. Oruç tutmak.
+4. Zekât vermek. 
+5. Hacca gitmek.
